@@ -19,5 +19,5 @@ The important parts to make this work are:
 
 ## Roadmap
 
-In the future there will be no need to load the additional agent at all, and everything will happen automatically. Follow https://github.com/parca-dev/parca-agent/issues/1 for the latest status.
+In the future there will be no need to load the additional agent at all, and everything will happen automatically. Follow [parca-dev/praca-agent#1](https://github.com/parca-dev/parca-agent/issues/1) for the latest status.
 
