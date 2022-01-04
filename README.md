@@ -15,7 +15,7 @@ kubectl run spring-boot-example --image=ghcr.io/parca-dev/spring-boot-example:v0
 The important parts to make this work are:
 
 * Adding the `libperfmap.so` agent to the container image (see [this line in the Dockerfile](./Dockerfile#L15)).
-* Adding the `-XX:+PreserveFramePointer` and `-agentpath:/app/libperfmap.so` flags to the Java command. Depending on the setup and framework these flags may need to be set using the `JAVA_OPTS` environment variable.
+* Adding the [`-XX:+PreserveFramePointer` and `-agentpath:/app/libperfmap.so` flags to the Java command](./Dockerfile#L17). Depending on the setup and framework these flags may need to be set using the `JAVA_OPTS` environment variable.
 
 ## Roadmap
 
