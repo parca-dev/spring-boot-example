@@ -21,3 +21,8 @@ The important parts to make this work are:
 
 In the future there will be no need to load the additional agent at all, and everything will happen automatically. Follow [parca-dev/praca-agent#1](https://github.com/parca-dev/parca-agent/issues/1) for the latest status.
 
+## Screenshot
+
+An example screenshot of parts of an iciclegraph/flamegraph of data produced with this example:
+
+![Screenshot from 2022-01-04 19-02-00](https://user-images.githubusercontent.com/4546722/148103403-dee74a40-7fc7-4681-8733-ac368cb036ee.png)
