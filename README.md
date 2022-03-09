@@ -1,3 +1,5 @@
+# THIS EXAMPLE MOVED INTO [parca-dev/parca-demo](https://github.com/parca-dev/parca-demo)
+
 # Spring boot example
 
 This repo is an example for how a Java application can be profiled with Parca Agent. First deploy Parca and Parca Agent as usual, for example [on Kubernetes](https://www.parca.dev/docs/kubernetes).
